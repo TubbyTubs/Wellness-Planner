@@ -1,0 +1,15 @@
+currentActivities - array of currentActivities loaded for the user to complete
+activities - array of possible activities for the user to complete so that they can be incorporated into the currentActivities list
+activity# - multiple objects each with a listed activitiy, point value, category
+physicalPoints - points in physical category of wellness
+emotionalPoints - points in emotional category of wellness
+socialPoints - points in social category of wellness
+intellectualPoints - points in intellectual category of wellness
+day - Schedule of day at each half hour
+monday - day schedule for Monday
+'' for rest of week
+weeklySchedule - array of each daily schedule for entire week
+todoList - list of user defined tasks to be accomplished
+previouslyChallenges
+
+
